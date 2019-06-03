@@ -1,5 +1,5 @@
 # LeonaFXL
-Secure Licensing System with User Management for C# and PHP
+Secure Licensing System For User Management for C# and PHP
 
 ### How to use
 1. Please upload PHP files to your web server. Your server must to support PHP 7.0 or more and MySQL(MariaDB) also.
