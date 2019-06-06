@@ -12,4 +12,4 @@ The server will return status code of string type. So you can use switch method 
 
 This version is free to use version of LeonaFX Licensing, which no longer maintained.
 
-#Last updated on May 24 2017.
+**Last updated on May 24 2017.**
