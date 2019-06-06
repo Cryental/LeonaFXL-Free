@@ -9,8 +9,6 @@ Secure Licensing System For User Management for C# and PHP
 
 The server will return status code of string type. So you can use switch method to control your program.
 
-Warning: Your values can change or dump through Cheat Engine or Ollydbg in memory always, so if want to safe from crack, please use SecureString to set values in your client-side.
-
 
 This version is free to use version of LeonaFX Licensing, which no longer maintained.
 
