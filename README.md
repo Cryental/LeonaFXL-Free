@@ -13,15 +13,3 @@ Warning: Your values can change or dump through Cheat Engine or Ollydbg in memor
 
 
 This version is free to use version of LeonaFX Licensing.
-We can offer the premium version, which including:
-
-- User Management System (Login, Register, Email and SMS Verification)
-- Automatic Ban
-- Region Lock to Limit API Calls from Specific Countries
-- Powerful Licensing System (Verify, Activate License with Specific Region Lock and Detailed Subscription Settings)
-- Steam ID & Hardware Unique ID Lock Supported
-- Product Management System (Version Management, Real-Time Update and AES256 Protection)
-- Maximum Code Optimization
-- World-Fast API Hosting Service
-
-If you interested, please create a issue here.
